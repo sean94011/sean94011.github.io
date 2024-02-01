@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sean's Personal Website"
 title_separator          : "-"
 name                     : &name "Sean Yao"
-description              : &description "personal description"
+description              : &description "Research Assistant at iSENS Lab (UIUC)"
 url                      : https://sean94011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sean94011/sean94011.github.io"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Chun-Kai (Sean) Yao"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Sean's Avatar.png"
+  bio              : "Research Assistant at iSENS Lab (UIUC)"
   location         : "Bayonne, NJ, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=agKXVhsAAAAJ"
   email            : "sean94011@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
